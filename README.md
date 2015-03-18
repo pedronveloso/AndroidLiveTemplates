@@ -1,7 +1,9 @@
 # Author
 
 Pedro Veloso
+
 ( pedro.n.veloso AT gmail.com )
+
 G+ : https://plus.google.com/+PedroVeloso/posts
 
 # AndroidLiveTemplates
