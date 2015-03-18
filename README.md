@@ -39,15 +39,25 @@ __Abbreviation__ : _Description_
 
 
 __fbtn__: _Find Button (Activity)_
+
 __fbtnf__: _Find Button (Fragment)_
+
 __fet__ : _Find EditText (Activtity)_
+
 __fetf__: _Find EditText (Fragment)_
+
 __ftv__: _Find TextView (Activity)_
+
 __ftvf__: _Find TextView (Fragment)_
+
 __soc__ : _Switch Statment for OnClick Handler_
+
 __toast__: _Show short lived toast message_
+
 __ttext__: _Add tools:text attribute_
+
 __xmla__: _Add XML android namespace_
+
 __xmlt__: _Add XML tools namespace_
 
 
@@ -55,7 +65,11 @@ The following are used for a specialized Log class that I usually use in my proj
 
 
 __ld__: _Print Debug Log message_
+
 __li__: _Print Info Log message_
+
 __le__: _Print Error Log message_
+
 __lv__: _Print Verbose Log message_
+
 __lw__: _Print Warn Log message_
